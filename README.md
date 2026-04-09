@@ -58,10 +58,10 @@ Git
 
 ## 📝 Recent Work
 
-- Built 360° virtual museum experience for a national financial institution
-- Developed ERP system with IoT integration for manufacturing operations
-- Created Indonesian biodiversity platform 
-- Designed and deployed Osaka Expo 2025 pavilion web experience
+- Built 360° virtual museum experience for a national financial institution - [Live Website](https://virtual-museum-bi-institute.com/)
+- Developed ERP system with IoT integration for manufacturing operations 
+- Created Indonesian biodiversity platform - [Live Website](https://indonesia-biodiversity.com/)
+- Designed and deployed Osaka Expo 2025 pavilion web experience 
 - Developed React Native BLE app for IoT device management
 
 ---
