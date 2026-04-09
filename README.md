@@ -1,4 +1,4 @@
-# Hi, I'm Ifan Ramza 👋
+# Hi, I'm Ifan Ramadhan Zaki 👋
 
 **Full Stack Engineer** building scalable web applications and cloud-native solutions
 
@@ -8,9 +8,9 @@
 
 ## 👨‍💻 About Me
 
-I'm a full stack engineer with 5+ years of experience delivering end-to-end solutions for enterprise and government clients across Indonesia. I work comfortably across the entire stack—from crafting responsive, performant frontends to designing scalable backend architectures and cloud infrastructure.
+I'm a full stack engineer with 5+ years of experience delivering end-to-end solutions for enterprise and government clients across Indonesia. I work comfortably across the entire stack, from crafting responsive, performant frontends to designing scalable backend architectures and cloud infrastructure.
 
-My approach focuses on building maintainable systems with modern tooling, strong type safety, and automated deployment pipelines. I've served clients in finance, manufacturing, retail, and energy sectors, delivering everything from internal dashboards to public-facing platforms.
+Focuses on building maintainable systems with modern tooling, strong type safety, and automated deployment pipelines. I've served clients in finance, manufacturing, retail, and energy sectors, delivering everything from internal dashboards to public-facing platforms.
 
 **Currently open to:** Frontend • Backend • Full Stack opportunities
 
@@ -23,7 +23,7 @@ An open-source browser-based image processing tool built with **React 19**, **Ty
 
 **Tech highlights:** Modern React patterns, WASM integration, responsive design system
 
-[Live Demo](#) • [Repository](#)
+[Live Demo](https://zippix.ifanramza.com/) • [Repository](https://github.com/IfanRamza/ZipPix)
 
 ---
 
